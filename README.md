@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdallahadel5500
+- 👋 Hi, I’m @abdallahadel
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on some project 
